@@ -8,7 +8,7 @@ print("-" * 70)
 print(all(set_true))
 print(all(set_false))
 
-# any()	Returns True if any element of the set is true. If the set is empty, returns False.
+# any()	Returns True if  any element of the set is true. If the set is empty, returns False.
 
 print("-" * 70)
 print(any(set_true))
